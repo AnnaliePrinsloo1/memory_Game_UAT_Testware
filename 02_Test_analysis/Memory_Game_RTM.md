@@ -13,7 +13,7 @@ This Requirements Traceability Matrix (RTM) ensures 100% test coverage by direct
 | Req ID | Requirement Category | Requirement description | Linked Test Case (ID) | Status / Coverage |
 | :--- | :--- | :--- | :--- | :--- |
 | **REQ_MM_01** | Main Menu | Provide a choice of background music from a list of 16 tracks. | TC_MM_001, TC_CUST_001 | Covered |
-| **REQ_MM_02** | Display a Daily Brain Bite random fact check system | TC_FLOW_001 | Covered |
+| **REQ_MM_02** | Main Menu | Display a Daily Brain Bite random fact check system | TC_FLOW_001 | Covered |
 | **REQ_MM_03** | Main Menu | Offer help folders containing written topic information. | TC_SET_002 | Covered |
 | **REQ_MM_04** | Main Menu | Redeem points field accepting small, huge, or empty inputs. | TC_RED_001 | Covered |
 | **REQ_MM_05** | Main Menu | Premium storefront for tokens, lives, and virtual coffee. | TC_FLOW_004 | Covered |

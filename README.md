@@ -3,7 +3,14 @@ An end-to-end UAT testware showcase for the Memory Game app, structured strictly
 
 # Memory Game App (Beta) - End-to-End User Acceptance Test (UAT) Run
 
-[![ISTQB Certified](https://shields.io)](https://istqb.org)
+[![ISTQB Certified Tester](https://shields.io/badge/ISTQB-red)](https://scr.istqb.org/?name=Annalie+Prinsloo&number=ZA010123GK0981040&orderBy=relevancy)
+![Static Badge](https://img.shields.io/badge/UAT-Beta-blue)
+![Static Badge](https://img.shields.io/badge/Functional-blue)
+![Static Badge](https://img.shields.io/badge/Non-functional-blue)
+![Static Badge](https://img.shields.io/badge/Usability-blue)
+![Static Badge](https://img.shields.io/badge/BVA-blue)
+![Static Badge](https://img.shields.io/badge/EP-blue)
+![Static Badge](https://img.shields.io/badge/STT-blue)
 
 This repository hosts the complete testware suite and execution logs for the production-readiness validation version V 20260601 of the **Memory Game App (Beta version)**. 
 

@@ -1,11 +1,11 @@
 # User Acceptance Test (UAT) Plan: Memory Game (Beta)
 
-Identifier: TP-APP-01
-Test Level: User Acceptance Testing (UAT)
-Current Status: **Completed**
-Version: v1.1
-Date: 2026-05-22
-Author: Annalie Prinsloo
+Identifier: TP-APP-01  
+Test Level: User Acceptance Testing (UAT) / Beta phase  
+Current Status: **Completed**  
+Version: v1.1  
+Date: 2026-05-22  
+Author: Annalie Prinsloo  
 
 ---
 
